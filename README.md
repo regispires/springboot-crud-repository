@@ -1,2 +1,2 @@
 # springboot-crud-repository
-Exemplo simples de uso do Spring Boot para fazer um CRUD usando Repository com Injeção de Dependência.
+Exemplo simples de uso do Spring Boot para fazer um CRUD usando JpaRepository com Injeção de Dependência.
