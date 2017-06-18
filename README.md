@@ -1,2 +1,2 @@
-# springboot-crud-dao
-Exemplo simples de uso do Spring Boot para fazer um CRUD usando DAO com Injeção de Dependência.
+# springboot-crud-repository
+Exemplo simples de uso do Spring Boot para fazer um CRUD usando Repository com Injeção de Dependência.
